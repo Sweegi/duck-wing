@@ -1,0 +1,9 @@
+{
+  "name": "big-sell-admin",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo '请运行: npx degit vbenjs/vue-vben-admin apps/admin'",
+    "build": "echo '请先完成 admin 项目初始化'"
+  }
+}

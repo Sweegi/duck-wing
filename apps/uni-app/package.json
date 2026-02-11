@@ -1,0 +1,9 @@
+{
+  "name": "big-sell-uni-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev:h5": "echo '请使用 HBuilderX 或 uni-app 官方 CLI 重新初始化此项目'",
+    "build": "echo '请先完成 uni-app 项目初始化'"
+  }
+}
